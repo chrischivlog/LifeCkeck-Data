@@ -7,6 +7,20 @@
         "link-to-manifactur": "https://hpe.com"
     },
     {
+        "brand": "1",
+        "model": "1200 ProLiant 1400",
+        "date": "31.05.2021",
+        "replacement": "null",
+        "link-to-manifactur": "https://hpe.com"
+    },
+    {
+        "brand": "1",
+        "model": "1500 ProLiant 1500",
+        "date": "31.05.2021",
+        "replacement": "null",
+        "link-to-manifactur": "https://hpe.com"
+    },
+    {
         "brand": "2",
         "model": "",
         "date": "",
