@@ -1,30 +1,98 @@
 [
     {
         "brand": "1",
-        "model": "1600 ProLiant 1600",
-        "date": "31.05.2021",
-        "replacement": "null",
-        "link-to-manifactur": "https://hpe.com"
-    },
-    {
-        "brand": "1",
-        "model": "1200 ProLiant 1400",
-        "date": "31.05.2021",
-        "replacement": "null",
-        "link-to-manifactur": "https://hpe.com"
-    },
-    {
-        "brand": "1",
-        "model": "1500 ProLiant 1500",
-        "date": "31.05.2021",
-        "replacement": "null",
-        "link-to-manifactur": "https://hpe.com"
+        "model": "Cisco Small Business 300 Series Managed Switches",
+        "date": "31.10.2023",
+        "link-to-manifactur": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html"
     },
     {
         "brand": "2",
-        "model": "",
-        "date": "",
-        "replacement": "",
-        "link-to-manifactur": ""
+        "model": "2930F 8-port Switches",
+        "date": "30-Sep-28",
+        "link-to-manifactur": "https://www.arubanetworks.com/support-services/end-of-life/#product=campus-switches&version=0"
+    },
+    {
+        "brand": "2",
+        "model": "3810 Switch",
+        "date": "30-Jun-28",
+        "link-to-manifactur": "https://www.arubanetworks.com/support-services/end-of-life/#product=campus-switches&version=0"
+    },
+    {
+        "brand": "2",
+        "model": "2920 24G PoE+ Switch",
+        "date": "31-Oct-23",
+        "link-to-manifactur": "https://www.arubanetworks.com/support-services/end-of-life/#product=campus-switches&version=0"
+    },
+    {
+        "brand": "2",
+        "model": "2920 48G PoE+ Switch",
+        "date": "30-Nov-23",
+        "link-to-manifactur": "https://www.arubanetworks.com/support-services/end-of-life/#product=campus-switches&version=0"
+    },
+    {
+        "brand": "2",
+        "model": "2920 48G PoE+ 740W",
+        "date": "31-Mar-24",
+        "link-to-manifactur": "https://www.arubanetworks.com/support-services/end-of-life/#product=campus-switches&version=0"
+    },
+    {
+        "brand": "2",
+        "model": "2920 24G Switch",
+        "date": "30-Jun-23",
+        "link-to-manifactur": "https://www.arubanetworks.com/support-services/end-of-life/#product=campus-switches&version=0"
+    },
+    {
+        "brand": "2",
+        "model": "2920 48G Switch",
+        "date": "31-Oct-23",
+        "link-to-manifactur": "https://www.arubanetworks.com/support-services/end-of-life/#product=campus-switches&version=0"
+    },
+    {
+        "brand": "2",
+        "model": "2915 8G PoE+ Switch",
+        "date": "30-Sep-23",
+        "link-to-manifactur": "https://www.arubanetworks.com/support-services/end-of-life/#product=campus-switches&version=0"
+    },
+    {
+        "brand": "2",
+        "model": "2540 Switch",
+        "date": "31-Oct-26",
+        "link-to-manifactur": "https://www.arubanetworks.com/support-services/end-of-life/#product=campus-switches&version=0"
+    },
+    {
+        "brand": "2",
+        "model": "2530 Gigabit 8 port Switch",
+        "date": "31-May-26",
+        "link-to-manifactur": "https://www.arubanetworks.com/support-services/end-of-life/#product=campus-switches&version=0"
+    },
+    {
+        "brand": "2",
+        "model": "2530 24 & 48 port Gigabit Switches",
+        "date": "31-Oct-26",
+        "link-to-manifactur": "https://www.arubanetworks.com/support-services/end-of-life/#product=campus-switches&version=0"
+    },
+    {
+        "brand": "2",
+        "model": "2530 24G 2SFP+ Switch",
+        "date": "30-Jan-22",
+        "link-to-manifactur": "https://www.arubanetworks.com/support-services/end-of-life/#product=campus-switches&version=0"
+    },
+    {
+        "brand": "2",
+        "model": "2530 48G 2SFP+ Switch",
+        "date": "30-Jan-22",
+        "link-to-manifactur": "https://www.arubanetworks.com/support-services/end-of-life/#product=campus-switches&version=0"
+    },
+    {
+        "brand": "2",
+        "model": "2530 24G PoE+ 2SFP+ Switch",
+        "date": "30-Jan-22",
+        "link-to-manifactur": "https://www.arubanetworks.com/support-services/end-of-life/#product=campus-switches&version=0"
+    },
+    {
+        "brand": "2",
+        "model": "2530 48G PoE+ 2SFP+ Switch",
+        "date": "30-Jan-22",
+        "link-to-manifactur": "https://www.arubanetworks.com/support-services/end-of-life/#product=campus-switches&version=0"
     }
 ]
